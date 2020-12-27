@@ -1,5 +1,4 @@
 # DataScience
-Popular programming languages specializing in Data Science
 Project to demonstarte popular programming language uses from simple demos and complex data structures.
 
 Motivation
